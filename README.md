@@ -1,5 +1,5 @@
-<h1 align="center"> 🌸 ૮꒰ྀིっ˕ -｡꒱ྀིა  ¡Hola, soy Stefanny! 🌸 </h1>
-<p align="center">Bienvenid@ a mi rincón en GitHub 💕✨</p>
+<h1 align="center"> 🌸 Bienvenid@ 🌸 </h1>
+<p align="center">Este es mi pequeño rincón en GitHub 💕✨</p>
 
 <p align="center">
   🎀 <b>Hola, soy Stefanny Fajardo</b> 🎀 <br>

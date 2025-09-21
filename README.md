@@ -1,11 +1,18 @@
 <h1 align="center"> 🌸 ૮꒰ྀིっ˕ -｡꒱ྀིა  ¡Hola, soy Stefanny! 🌸 </h1>
 <p align="center">Bienvenid@ a mi rincón en GitHub 💕✨</p>
 
+<p align="center">
+  🎀 <b>Hola, soy Stefanny Fajardo</b> 🎀 <br>
+  🌸 Estudiante de <b>Ingeniería en Sistemas</b> <br>
+  📚 Actualmente cursando <b>octavo semestre</b>  
+</p>
+
 ---
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" align="right">
 
 ### 🎀 Sobre mí
+
 - 🌸 Aprendiendo **C++** y dando mis primeros pasitos en la programación.  
 - 🧸 Me gusta que mi código sea lindo y útil.  
 - 💕 Meta: crear aplicaciones bonitas y 100% funcionales.  

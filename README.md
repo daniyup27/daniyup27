@@ -1,8 +1,9 @@
-<h1 align="center"> 🌸 Bienvenid@ 🌸 </h1>
-<p align="center">Este es mi pequeño rincón en GitHub 💕✨</p>
+<h1 align="center"> 🌸 ૮꒰ྀིっ˕ -｡꒱ྀིა  ¡Hola, soy Stefanny! 🌸 </h1>
+<p align="center">Bienvenid@ a mi rincón en GitHub 💕✨</p>
+
+---
 
 <p align="center">
-  🎀 <b>Hola, soy Stefanny Fajardo</b> 🎀 <br>
   🌸 Estudiante de <b>Ingeniería en Sistemas</b> <br>
   📚 Actualmente cursando <b>octavo semestre</b>  
 </p>
@@ -38,12 +39,33 @@
 
 ### 🌷 Lo que estoy aprendiendo ahora
 - 🧸 **C++**: arrays, funciones y estructuras.  
-- 🌸 **Java**
+- 🌸 **Java**  
 - 💕 Crear proyectos paso a paso y documentarlos adecuadamente.  
 
 ---
 
-<p align="center">✨ Gracias por visitar mi perfil ✨</p>
+### 🎨 Lenguajes más usados
 <p align="center">
-<img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="250">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniyup27&layout=compact&theme=tokyonight&title_color=ff69b4&text_color=ffffff&bg_color=ffb6c1" />
+</p>
+
+---
+
+### 📊 Mis estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniyup27&show_icons=true&theme=tokyonight&title_color=ff69b4&icon_color=ffb6c1&bg_color=ffe4ec&text_color=333333" />
+</p>
+
+---
+
+### 👀 Visitas
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daniyup27&color=ff69b4&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">💌 “Gracias por visitar mi perfil, significa mucho para mí 🌸💖”</p>
+<p align="center">
+<img src="https://media.giphy.com/media/v6aOjy0Qo1fIA/giphy.gif" width="250">
 </p>
